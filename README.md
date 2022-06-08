@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pganadinni
+- 👋 Hi, I’m Puneeth Ganadinni
 - 👀 I’m interested in Analytics & Insights
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Data Engineering projects
